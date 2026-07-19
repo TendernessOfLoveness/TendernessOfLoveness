@@ -1,2 +1,1 @@
-<img src="https://pinimg.com" width="100%" />
-
+<img src="https://pinimg.com" width="200%" />
